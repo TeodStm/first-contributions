@@ -35,6 +35,7 @@
 - [Erik Kristofer Anderson] (https://github.com/erik-kristofer-anderson)
 - [Akshaya] (https://github.com/Akshayamittu)
 - [Lindsey Hensley] (http://github.com/linzeestomp)
+- [Thodoris Stamatoukos]
 - [Paul Gordon](https://github.com/pgordon89)
 - [Amédée DERA](https://github.com/a-dera)
 - [Ismail Tlemcani] (https://github.com/Ismailtlem)
